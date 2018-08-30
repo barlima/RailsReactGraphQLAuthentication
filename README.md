@@ -4,7 +4,7 @@ The aplication is based on Rails and React. The aim of the project is create a u
 
 ## Running the application
 
-Since the app is on Rails, the only necessary thing is to run the rails server:
+To run the server use foreman. The Procfile for development is located in `Procfile.dev`:
 ```
-$ rails s
+$ foreman start -f Procfile.dev -p 3030
 ```
