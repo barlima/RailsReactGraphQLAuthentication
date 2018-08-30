@@ -1,24 +1,10 @@
-# README
+# User authentication using GraphQL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The aplication is based on Rails and React. The aim of the project is create a user authentication using GraphQL and React.
 
-Things you may want to cover:
+## Running the application
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Since the app is on Rails, the only necessary thing is to run the rails server:
+```
+$ rails s
+```
